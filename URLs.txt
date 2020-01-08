@@ -1,0 +1,61 @@
+MEGATON CAFE RADIO;http://us2.internet-radio.com:8443/
+Swing Street Radio;http://198.178.123.17:11312/
+Frank Sinatra Radio;http://94.23.159.187:9998/
+Country Radio;http://icecast2.play.cz:8000/country64.mp3
+F1;http://icecast4.play.cz:80/frekvence1-128.mp3
+Blanik CZ;http://ice.abradio.cz:8000/blanikcz128.mp3
+Cesky Rozhlas Radiozurnal;http://icecast8.play.cz/cro1-128.mp3
+Cesky Rozhlas Ostrava;http://icecast2.play.cz/croov128.mp3
+Cesky Rozhlas Jazz;http://icecast1.play.cz/crojazz128.mp3
+Cesky Rozhlas Vltava;http://icecast5.play.cz/cro3-128.mp3
+Cesky Rozhlas D-dur;http://icecast5.play.cz/croddur-128.mp3
+RadioMax Radio Oldies;http://212.111.2.151:8000/rm_old_256.mp3
+Signal Radio;http://icecast1.play.cz:8000/signal128.mp3
+Classic Praha;http://icecast8.play.cz:80/classic128.mp3
+Radio Petrof;http://icecast6.play.cz/petrov128.mp3
+SRO Radio Devin;http://live.slovakradio.sk:8000/Devin_256.mp3
+SRO Radio Klasika;http://live.slovakradio.sk:8000/Klasika_256.mp3
+NRK Klassisk;http://nrk-mms-live.telenorcdn.net:80/nrk_radio_klassisk_mp3_h
+BBC Radio 3 - Essential Classics;http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+Davide of MIMIC;http://uk3.internet-radio.com:8060/
+Radio Vinilo;http://s1.slotex.pl:7366/
+Classical Radio GB aacPlus;http://149.255.59.164:8184/
+Classical Gold;http://149.255.59.3:8029/
+ABC Classic FM Australia;http://live-radio02.mediahubaustralia.com/2FMW/mp3/
+Easy Classical radio - Classical Radio USA;http://chai5she.cdn.dvmr.fr/francemusiqueeasyclassique-hifi.mp3
+Classical For The Ages Radio;http://50.7.99.163:11543/
+Violin - Calm Radio;http://148.72.152.10:4528/stream
+Violin - Radio Caprice;http://79.111.14.76:9173/
+String Works - Classical Radio USA;http://79.120.39.202:8000/strings
+Strings - Radio Caprice;http://79.120.39.202:9133/
+Chamber Music - Radio Caprice;http://79.120.39.202:9183/
+Concertos - Classical Radio USA;http://streams.calmradio.com:9328/stream/1/
+Classical Piano - Calm Radio;http://148.72.152.10:30928/stream
+Classical Piano - Radio Caprice;http://79.120.77.11:9009/
+Solo Piano Radio USA;http://de-hz-fal-stream05.rautemusik.fm/solopiano
+Clarinet/Basson/Oboe - Radio Caprice;http://79.120.39.202:9189/
+Symphonies - Classical Radio USA;http://broadcaster-radio.unimore.it:8000/Simphonies.mp3
+Classical Symphonic Music - Radio Caprice;http://79.120.77.11:9019/
+Symphony FM;http://streams.calmradio.com/api/107/128/stream
+Sonatas - Classical Radio USA;http://streams.calmradio.com:21828/stream/1/
+Choral Works - ClassicalRadio USA;http://live.radioart.com/fChoral_works.mp3
+Classical Choral/Vocal - Radio Caprice;http://79.120.39.202:9053/
+Operas - ClassicalRadio USA;http://live.radioart.com/fOpera.mp3
+Opera - Radio Caprice;http://79.120.39.202:9057/
+Classic FM Opera;http://20043.live.streamtheworld.com/SRGSTR27.mp3?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTM0NzU1OTkwLCJ0ZC1yZWciOmZhbHNlfQ._b7b2RX6022f-N8gSmNk8-nny4ly6_Re0ms1BwBsY9M
+Bach - Classical Radio USA;http://live.radioart.com/fBach.mp3
+Beethoven - Classic Radio;http://www.clasicradio.ro:7200/streamHD
+Beethoven - Abacus;http://178.33.232.106:8008/stream
+Brahms - ClassicalRadio USA;http://live.radioart.com/fJohannes_brahms.mp3
+Debussy - Calm Radio;http://148.72.152.10:10228/stream
+Dvorak - Calm Radio;http://148.72.152.10:10528/
+Chopin - ClassicalRadio USA;http://live.radioart.com/fChopin.mp3
+Handel - Classical Radio USA;http://live.radioart.com/fGeorge_handel.mp3
+Haydn - Classical Radio USA;http://live.radioart.com/fJoseph_haydn.mp3
+Mozart - RadioTunes USA;http://5.39.71.159:8978/
+Rachmaninoff - Calm Radio;http://148.72.152.10:9228/stream
+Schubert - Calm Radio;http://148.72.152.10:8228/stream
+Tchaikovsky - ClassicalRadio USA;http://live.radioart.com/fPyotr_tchaikovsky.mp3
+Vivaldi - Calm Radio;http://148.72.152.10:8928/stream
+Vivaldi - ClassicalRadio USA;http://live.radioart.com/fVivaldi.mp3
+Baroque - Calm Radio;http://148.72.152.10:3328/stream

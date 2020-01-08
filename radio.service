@@ -1,0 +1,15 @@
+[Unit]
+Description=Radio Service
+After=multi-user.target
+
+[Service]
+Type=idle
+User=pi
+Environment=DISPLAY=:0
+Restart=30s
+WorkingDirectory=/home/pi/Desktop/Radio/
+ExecStartPre=/bin/sleep 10
+ExecStart=/bin/sh /home/pi/Desktop/Radio/radio-autorun.sh
+
+[Install]
+WantedBy=multi-user.target
