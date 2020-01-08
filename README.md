@@ -13,9 +13,7 @@ The main casing comes from an old Tesla 411U (1952/53). All the internal parts w
 
 In the lower part of the radio, all electronic components except of the display are placed. The display is hidden behind the fabric on the right side of the speaker, but it is still perfectly readable. It communicates with the Raspberry through I2C. The front glass tuning panel was mounted directly to the casing with a light background to make the writing more visible. 
 
-Original buttons are left on the right side of the radio. The front one is directly connected to the potentiometer and controls the volume. The back one operates as a lever and presses two toggle-buttons to change the station. The right side button was lost during the life of the radio and is replaced by the power switch.
-
- 
+Original buttons are left on the right side of the radio. The front one is directly connected to the potentiometer and controls the volume. The back one operates as a lever and presses two toggle-buttons to change the station. The right side button was lost during the life of the radio and is replaced by the power switch. 
 
 ## Software
 The Raspberry Pi runs Raspbian with a SSH possibility. During the start-up, a simple service radio.py based on libVLC is started as a service.  The service then checks for the interrupts from the buttons and behave accordingly. In addition, station name, current station number and time are sent to the display through I2C. If the NEXT/PREVIOUS button is pressed, the service reads next/previous station from a station list saved in an external text file (the name and the station address are hardcoded). If the power switch is toggled to position OFF, the service send a command to turn the raspberry system off. After ca. 20 s, the power is switched off by switching off a relay (delay circuit). 
@@ -25,6 +23,15 @@ So far the station name and the address are hardcoded in a file and no meta data
 
 ## Conclusion
 Giving this radio as a gift was a success, similarly to the previous version. Even though there is a of room for improvement, the radio as it is does the job and pleases the eye. 
+
+## File Description
+radio.py  - Main program (radio functionality) base on python
+I2C_LCD_driver.py - Third party library for the display control available online
+radio-autorun.sh - Linker between the service routine and the main program
+ radio.service -  Service file run through systemctl
+URLs.txt - File to store stations and their URLs
+LastStation.txt - File to store the last station number
+
 
 ## All Pictures
 ![Radio 2]( https://github.com/hadato/Internet_Radio_v2/blob/master/_DSC3178.JPG)
