@@ -26,10 +26,15 @@ Giving this radio as a gift was a success, similarly to the previous version. Ev
 
 ## File Description
 radio.py  - Main program (radio functionality) base on python
-I2C_LCD_driver.py - Third party library for the display control available online
+
+I2C_LCD_driver.py - Third party display library
+
 radio-autorun.sh - Linker between the service routine and the main program
- radio.service -  Service file run through systemctl
+
+radio.service -  Service file run through systemctl
+
 URLs.txt - File to store stations and their URLs
+
 LastStation.txt - File to store the last station number
 
 
